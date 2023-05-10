@@ -4,6 +4,12 @@
     font-family: 'Open Sans', sans-serif;
 }
 
+
+.bookButton{
+    border-radius: 15px;
+    align-items: center;
+}
+
 .tm-header{
     background: #211f17;
     display: block;
@@ -15,6 +21,7 @@
     background-color: #ec3c6a;
     border-radius: 15px;
     padding: 10px;
+    margin-right: 10px;
 }
 
 #mybutton2{
@@ -22,6 +29,8 @@
     background-color: #ec3c6a;
     border-radius: 15px;
     padding: 10px;
+
+    
 }
 .hoho{
     border-radius: 15px;

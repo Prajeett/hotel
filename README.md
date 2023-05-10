@@ -1,1 +1,1 @@
-# hotel website using just HTML, CSS and JS
+# hotel-master
